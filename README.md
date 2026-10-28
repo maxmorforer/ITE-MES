@@ -19,8 +19,8 @@ The purpose of this repository is to demonstrate the use of Git and GitHub for v
 10. Received approval from my collaborator and merged the Pull Request into the main branch.
 
 ## Collaborators
-- Student 1: [Your First Name and Last Name] — Repository Owner
-- Student 2: [Classmate's First Name and Last Name] — Collaborator and Reviewer
+- Student 1: [Meshach Keiler] — Repository Owner
+- Student 2: [Saskia Spencer] — Collaborator and Reviewer
 
 ## Repository Link
 [Insert your public GitHub repository URL]
